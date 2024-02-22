@@ -28,5 +28,5 @@ FLASK_ENV=development
 [SUPABASE](https://supabase.com/dashboard/project/ofmnzqlbkdyjvsanitqa/editor/28595) OR `https://supabase.com/dashboard/project/ofmnzqlbkdyjvsanitqa/editor/28595`
 
 Shortcut localhost:
-1. Animals : [http://127.0.0.1:5000/v1/animals](http://127.0.0.1:5000/v1/animal)
-2. Employees : [http://127.0.0.1:5000/v1/employees](http://127.0.0.1:5000/v1/employee)
+1. Animals : [http://127.0.0.1:5000/v1/animal](http://127.0.0.1:5000/v1/animal)
+2. Employees : [http://127.0.0.1:5000/v1/employee](http://127.0.0.1:5000/v1/employee)
